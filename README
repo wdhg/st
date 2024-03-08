@@ -2,6 +2,12 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+Branches
+--------
+
+- main is this projects default branch
+- master is the up-to-date remote branch hosted at https://git.suckless.org/st
+
 
 Requirements
 ------------
